@@ -40,6 +40,13 @@ The generated plot displays:
 - **Red/Blue Arrows**: Normalized eigenvectors
 - **Green/Yellow Arrows**: Transformed vectors \( A \cdot v \)
 
+## Visualization
+
+The figure below shows the normalized eigenvectors of matrix **A** and their transformations:
+
+![Eigenvectors Plot](output.png)
+
+
 ## License
 
 MIT License
