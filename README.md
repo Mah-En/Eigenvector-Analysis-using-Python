@@ -54,6 +54,4 @@ MIT License
 ## Author
 
 Mahla Entezari
-```
 
----
