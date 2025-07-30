@@ -51,7 +51,4 @@ The figure below shows the normalized eigenvectors of matrix **A** and their tra
 
 MIT License
 
-## Author
-
-Mahla Entezari
 
